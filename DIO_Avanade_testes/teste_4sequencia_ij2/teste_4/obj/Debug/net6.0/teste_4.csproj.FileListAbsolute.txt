@@ -1,0 +1,15 @@
+C:\Users\bet4ca\Documents\Projetos_front\DIO_Avanade\IDE\teste_4\teste_4\bin\Debug\net6.0\teste_4.exe
+C:\Users\bet4ca\Documents\Projetos_front\DIO_Avanade\IDE\teste_4\teste_4\bin\Debug\net6.0\teste_4.deps.json
+C:\Users\bet4ca\Documents\Projetos_front\DIO_Avanade\IDE\teste_4\teste_4\bin\Debug\net6.0\teste_4.runtimeconfig.json
+C:\Users\bet4ca\Documents\Projetos_front\DIO_Avanade\IDE\teste_4\teste_4\bin\Debug\net6.0\teste_4.dll
+C:\Users\bet4ca\Documents\Projetos_front\DIO_Avanade\IDE\teste_4\teste_4\bin\Debug\net6.0\ref\teste_4.dll
+C:\Users\bet4ca\Documents\Projetos_front\DIO_Avanade\IDE\teste_4\teste_4\bin\Debug\net6.0\teste_4.pdb
+C:\Users\bet4ca\Documents\Projetos_front\DIO_Avanade\IDE\teste_4\teste_4\obj\Debug\net6.0\teste_4.csproj.AssemblyReference.cache
+C:\Users\bet4ca\Documents\Projetos_front\DIO_Avanade\IDE\teste_4\teste_4\obj\Debug\net6.0\teste_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bet4ca\Documents\Projetos_front\DIO_Avanade\IDE\teste_4\teste_4\obj\Debug\net6.0\teste_4.AssemblyInfoInputs.cache
+C:\Users\bet4ca\Documents\Projetos_front\DIO_Avanade\IDE\teste_4\teste_4\obj\Debug\net6.0\teste_4.AssemblyInfo.cs
+C:\Users\bet4ca\Documents\Projetos_front\DIO_Avanade\IDE\teste_4\teste_4\obj\Debug\net6.0\teste_4.csproj.CoreCompileInputs.cache
+C:\Users\bet4ca\Documents\Projetos_front\DIO_Avanade\IDE\teste_4\teste_4\obj\Debug\net6.0\teste_4.dll
+C:\Users\bet4ca\Documents\Projetos_front\DIO_Avanade\IDE\teste_4\teste_4\obj\Debug\net6.0\ref\teste_4.dll
+C:\Users\bet4ca\Documents\Projetos_front\DIO_Avanade\IDE\teste_4\teste_4\obj\Debug\net6.0\teste_4.pdb
+C:\Users\bet4ca\Documents\Projetos_front\DIO_Avanade\IDE\teste_4\teste_4\obj\Debug\net6.0\teste_4.genruntimeconfig.cache
